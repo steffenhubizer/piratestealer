@@ -52,3 +52,23 @@
 =Spanisch
 **HaxorStealer es un ladrón como piratestealer o bby rober pero mucho más mejor. proporcionamos un ladrón completamente no detectado que el bot puede construir de forma gratuita. también protegemos a cada usuario en nuestro backend que las personas no pueden encontrar / enviar spam / eliminar su webhook, por ejemplo. para convertirse en noticias/información/actualizaciones, únase a nuestro servidor de soporte. puedes invitar al bot constructor ahora en tu servidor de discordia y construir tu propio capturador.**
 
+=Polski
+**HaxorStealer to złodziej, taki jak piratestealer lub bby stealer, ale o wiele lepszy. zapewniamy w pełni niewykrytego złodzieja, którego bot może zbudować za darmo. a także chronimy każdego użytkownika na naszym zapleczu, aby ludzie nie mogli znaleźć/spamować/usunąć na przykład twojego webhooka. aby stać się newsami/informacjami/aktualizacjami dołącz do naszego Support Server. możesz teraz zaprosić bota budowniczego na serwer discord i zbudować własny grabber.**
+
+=Rumanisch
+**HaxorStealer este un hoț ca piratestealer sau bby stealer, dar mult mai bine. oferim un hoț complet nedetectat, care poate fi construit gratuit de către bot. De asemenea, protejăm fiecare utilizator de pe backend-ul nostru pe care oamenii nu îl pot găsi/spam/ șterge webhook-ul dvs., de exemplu. pentru a deveni știri/informații/actualizări, alăturați-vă serverului nostru de asistență. poți invita acum botul constructor pe serverul tău Discord și să-ți construiești propriul grabber.**
+
+=Indisch
+**HaxorStealer एक चोरी करने वाला है जैसे समुद्री डाकू या बीबी चोरी करने वाला लेकिन बहुत अधिक बेहतर। हम एक पूरी तरह से ज्ञात चोरी करने वाला प्रदान करते हैं जो बॉट द्वारा निर्मित करने के लिए स्वतंत्र है। साथ ही हम अपने बैकएंड पर प्रत्येक उपयोगकर्ता की रक्षा करते हैं कि उदाहरण के लिए लोग आपके वेबहुक को ढूंढ/स्पैम/डिलीट नहीं कर सकते हैं। समाचार/सूचना/अद्यतन बनने के लिए हमारे समर्थन सर्वर से जुड़ें। आप अपने कलह सर्वर में अब बिल्डर बॉट को आमंत्रित कर सकते हैं और अपना खुद का धरनेवाला बना सकते हैं।**
+
+=Kurdisch
+**HaxorStealer dizek mîna piratestealer an dizek bby ye lê pir çêtir e. em dizek bi tevahî nediyar peyda dikin ku ji hêla botê ve avakirina belaş e. Di heman demê de em her bikarhênerek li ser pişta xwe diparêzin ku mirov nikaribin mînaka webhook-a we bibînin / spam / jêbirin. ji bo ku bibin nûçe / agahî / nûvekirin beşdarî Servera Piştgiriya me bibin. hûn dikarin bota çêker naha vexwînin servera ur discord û girtina xweya xwe ava bikin.**
+
+=Niederland
+**HaxorStealer is een stealer zoals piratestealer of bby stealer, maar veel beter. we bieden een volledig onopgemerkte stealer die gratis door de bot kan worden gebouwd. ook beschermen we elke gebruiker op onze backend die mensen bijvoorbeeld uw webhook niet kunnen vinden/spam/verwijderen. Word lid van onze Support Server om nieuws/info/updates te worden. je kunt de builder-bot nu uitnodigen op je discord-server en je eigen grabber bouwen.**
+
+=Thailändisch
+**HaxorStealer เป็นนักขโมยอย่างผู้ขโมยของโจรสลัดหรือผู้ขโมย bby แต่ดีกว่ามาก เรามีตัวขโมยที่ตรวจไม่พบอย่างสมบูรณ์ซึ่งสร้างโดยบอทได้ฟรี เช่นกัน เราปกป้องผู้ใช้แต่ละรายในแบ็กเอนด์ของเราที่ผู้คนไม่สามารถค้นหา/ สแปม/ ลบเว็บฮุคของคุณ เป็นต้น เพื่อเป็นข่าวสาร/ ข่าวสาร/ อัปเดต เข้าร่วมเซิร์ฟเวอร์สนับสนุนของเรา คุณสามารถเชิญผู้สร้างบอทในเซิร์ฟเวอร์ที่ไม่ลงรอยกันและสร้างตัวคว้าของคุณเองได้**
+
+=Luxemburgisch
+**HaxorStealer ass e Stealer wéi Piratestealer oder bby Stealer awer vill méi besser. mir bidden e komplett ondetektéierte Stealer dee gratis vum Bot ze bauen ass. Mir schützen och all Benotzer op eisem Backend datt d'Leit net zum Beispill Äre Webhook fannen / Spam / läschen. fir Neiegkeeten / Infos / Updates ze ginn, mellt Iech bei eisem Support Server. Dir kënnt de Builder Bot elo an Ärem Discord Server invitéieren an Ären eegene Grabber bauen.**
